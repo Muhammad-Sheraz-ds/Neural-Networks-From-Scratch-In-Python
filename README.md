@@ -2,17 +2,45 @@
 
 <div style="overflow: auto; display: flex;">
   <div style="flex: 1; margin-right: 10px;">
-    <p>Welcome to the My "Neural Networks From Scratch" repository! This project is designed for enthusiasts and learners who want to dive deep into the intricacies of neural networks and understand their inner workings by implementing them from scratch using Python.</p>
+    <p>Welcome to the My "Neural Networks From Scratch" repository! This repository is designed for enthusiasts and learners who want to dive deep into the intricacies of neural networks and understand their inner workings by implementing them from scratch using Python.</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="Images/dnn3.png" alt="Machine Learning Image" style="width: 100%;">
+    <img src="Images/dnn3.png" style="width: 100%;">
   </div>
 </div>
 
 ## Introduction
 
 Understanding neural networks is crucial in the field of artificial intelligence and machine learning. This repository provides a comprehensive guide and implementation of neural networks without relying on external libraries, allowing you to grasp the fundamental concepts from the ground up.
+
+## The Repository covers the following concepts
+
+- Dense layer
+- Activation Functions
+    - ReLU
+    - Sigmoid
+    - Softmax
+    - Linear
+- Loss Functions
+    - Categorical Cross-Entropy Loss
+    - Binary Cross-Entropy Loss
+    - Mean Absolute Loss
+    - Mean Squared Loss
+- Optimizers
+    - SGD
+    - Adagrad
+    - RMSProp
+    - Adam
+- Dropout
+- L1 and L2 regularization
+- Backpropagagtion
+- MNIST Dataset
+
+# To Do
+
+- Convolutional Neural Network
+- Recurrent Neural Network
 
 ## Features
 
