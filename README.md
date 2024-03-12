@@ -6,7 +6,7 @@
   </div>
 
   <div style="flex: 1;">
-    <img src="Images/dnn3.PNG" alt="Machine Learning Image" style="width: 100%;">
+    <img src="Images/dnn3.png" alt="Machine Learning Image" style="width: 100%;">
   </div>
 </div>
 
