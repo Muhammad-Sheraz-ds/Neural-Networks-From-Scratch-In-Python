@@ -52,13 +52,6 @@ Understanding neural networks is crucial in the field of artificial intelligence
 
 - **Visualization:** Visualize the training process, including loss and accuracy metrics, to gain insights into how the network is learning.
 
-## Installation
-
-To get started, clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/neural-networks-from-scratch.git
-cd neural-networks-from-scratch
 
 # Contributing
 
