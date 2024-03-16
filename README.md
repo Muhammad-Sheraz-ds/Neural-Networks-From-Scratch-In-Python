@@ -6,7 +6,7 @@
   </div>
 
   <div height='1000px' width='100%'>
-    <img height = '100%' width='58%' src='Images/nn90.png'>
+    <img height = '100%' width='58%' src='Images/nn100.png'>
      <img  height = '100%' width='39%' src='Images/python.png'>
 </div>
 </div>
