@@ -5,7 +5,7 @@
     <p>Welcome to the My "Neural Networks From Scratch" repository! This repository is designed for enthusiasts and learners who want to dive deep into the intricacies of neural networks and understand their inner workings by implementing them from scratch using Python.</p>
   </div>
 
-  <div height='1000px' width='100%'>
+  <div  width='100%'>
     <img height = '100%' width='58%' src='Images/nn100.png'>
      <img  height = '100%' width='39%' src='Images/python.png'>
 </div>
